@@ -13,9 +13,9 @@
 ## From the above depiction, the following commands can be run in the terminal:
 
 1.  assignment add
-2.  assignment update
-3.  assignment complete
-4.  assignment delete
+2.  assignment complete
+3.  assignment delete
+4.  assignment update
 
 ## Mini-project deliverables:
 
