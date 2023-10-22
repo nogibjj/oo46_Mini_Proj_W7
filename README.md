@@ -1,4 +1,4 @@
-[![CLI_Lab](https://github.com/nogibjj/oo46_Mini_Proj_W7/blob/main/.github/workflows/cicd.ymlbadge.svg)][def]
+[![CLI_Lab](https://github.com/nogibjj/oo46_Mini_Proj_W7/blob/main/.github/workflows/cicd.yml/badge.svg)][def]
 
 # CLI Lab - Week 7 Mini project
 
@@ -30,6 +30,8 @@
    This is where all commands are executed.
 
 3. [Class Model](https://github.com/nogibjj/oo46_Mini_Proj_W7/blob/main/assignment_app/model.py) => This is where the Assignment class is defined in an object oriented fashion.
+
+## Mini Project Output:
 
 ![Output](output.png)
 
