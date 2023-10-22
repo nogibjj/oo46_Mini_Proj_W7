@@ -1,4 +1,4 @@
-[![CLI_Lab](https://github.com/nogibjj/oo46_Mini_Proj_W7/actions/workflows/cicd.yml/badge.svg)][def]
+[![CLI_Lab](https://github.com/nogibjj/oo46_Mini_Proj_W7/blob/main/.github/workflows/cicd.ymlbadge.svg)][def]
 
 # CLI Lab - Week 7 Mini project
 
@@ -20,17 +20,17 @@
 
 ## Mini-project deliverables:
 
-1. [Query Module](https://github.com/nogibjj/oo46_Mini_Proj_W6/blob/main/mylib/assignment_app/query.py) => The query module does the following:
+1. [Query Module](https://github.com/nogibjj/oo46_Mini_Proj_W7/blob/main/assignment_app/query.py) => The query module does the following:
 
    1. Creates the assignment database if it doesn't exist.
 
    2. It then performs all CRUD operations when called upon
 
-2. [Main App Module](https://github.com/nogibjj/oo46_Mini_Proj_W7/blob/assignment_app/assignment.py) => This module can be thought of as the main entry point to the application. It interfaces the query module and the command line User Interface (UI).
+2. [Main App Module](https://github.com/nogibjj/oo46_Mini_Proj_W7/blob/main/assignment_app/assignment.py) => This module can be thought of as the main entry point to the application. It interfaces the query module and the command line User Interface (UI).
    This is where all commands are executed.
 
-3. [Class Model](https://github.com/nogibjj/oo46_Mini_Proj_W7/blob/assignment_app/model.py) => This is where the Assignment class is defined in an object oriented fashion.
+3. [Class Model](https://github.com/nogibjj/oo46_Mini_Proj_W7/blob/main/assignment_app/model.py) => This is where the Assignment class is defined in an object oriented fashion.
 
 ![Output](output.png)
 
-[def]: https://github.com/nogibjj/oo46_Mini_Proj_W7/actions/workflows/cicd.yml
+[def]: https://github.com/nogibjj/oo46_Mini_Proj_W7/blob/main/.github/workflows/cicd.yml
