@@ -15,7 +15,8 @@
 1.  assignment add
 2.  assignment complete
 3.  assignment delete
-4.  assignment update
+4.  assignment show
+5.  assignment update
 
 ## Mini-project deliverables:
 
