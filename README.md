@@ -8,7 +8,7 @@
 
 2. Run assignment --help for usage commands. Example output:
 
-![Usage](usage.png)
+![Usage](help.png)
 
 ## From the above depiction, the following commands can be run in the terminal:
 
