@@ -1,4 +1,4 @@
-[![CLI_Lab](https://github.com/nogibjj/oo46_Mini_Proj_W7/blob/main/.github/workflows/cicd.yml/badge.svg)][def]
+[![CLI_Lab](https://github.com/nogibjj/oo46_Mini_Proj_W7/actions/workflows/cicd.yml/badge.svg)][def]
 
 # CLI Lab - Week 7 Mini project
 
@@ -35,4 +35,4 @@
 
 ![Output](output.png)
 
-[def]: https://github.com/nogibjj/oo46_Mini_Proj_W7/blob/main/.github/workflows/cicd.yml
+[def]: https://github.com/nogibjj/oo46_Mini_Proj_W7/actions/workflows/cicd.yml
