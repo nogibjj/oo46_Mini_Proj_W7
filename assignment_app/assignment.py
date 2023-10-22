@@ -14,6 +14,7 @@ console = Console()
 
 app = typer.Typer()
 
+
 # @app.group()
 # @app.option("--help", default="---help", help="Display user guide")
 @app.command(short_help="adds an assignment, course code, and due date")
